@@ -6,6 +6,7 @@
  *  
  *  
  *  Cost:
+ *  Per cell cost need to be lower than Opus tester
  *  
  *  
  *  More infor:
